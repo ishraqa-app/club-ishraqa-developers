@@ -1,9 +1,9 @@
-# {{CLUB_NAME}}
+# مطوّري إشراقة · Ishraqa Developers
 
 [![Built with Ishraqa](https://img.shields.io/badge/Built%20with-Ishraqa-F07A4A?style=flat)](https://ishraqa.app)
 
-The shared repository of the **{{CLUB_NAME}}** developers club on Ishraqa.
-Club page: {{CLUB_URL}}
+The shared repository of the **مطوّري إشراقة · Ishraqa Developers** developers club on Ishraqa.
+Club page: https://ishraqa.app/club/?c=357ead25
 
 ## How we work
 
